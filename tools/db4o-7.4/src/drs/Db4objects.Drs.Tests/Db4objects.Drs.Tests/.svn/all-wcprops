@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests
+END
+Db4oTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Db4oTests.cs
+END
+CollectionHandlerImplTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/CollectionHandlerImplTest.cs
+END
+ReplicationEventTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ReplicationEventTest.cs
+END
+CollectionAssert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/CollectionAssert.cs
+END
+R1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/R1.cs
+END
+TheSimplestWithCallConstructors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/TheSimplestWithCallConstructors.cs
+END
+SimpleArrayContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SimpleArrayContent.cs
+END
+SimpleListHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SimpleListHolder.cs
+END
+Db4oListTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Db4oListTest.cs
+END
+R3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/R3.cs
+END
+ReplicationProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ReplicationProviderTest.cs
+END
+SimpleArrayHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SimpleArrayHolder.cs
+END
+R0Linker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/R0Linker.cs
+END
+UntypedFieldTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/UntypedFieldTestCase.cs
+END
+SPCChildWithoutDefaultConstructor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SPCChildWithoutDefaultConstructor.cs
+END
+SimpleArrayTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SimpleArrayTest.cs
+END
+SingleTypeCollectionReplicationTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SingleTypeCollectionReplicationTest.cs
+END
+CollectionHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/CollectionHolder.cs
+END
+ReplicationTraversalTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ReplicationTraversalTest.cs
+END
+MixedTypesCollectionReplicationTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/MixedTypesCollectionReplicationTest.cs
+END
+R0to4Runner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/R0to4Runner.cs
+END
+Car.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Car.cs
+END
+Person.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Person.cs
+END
+SimpleParentChild.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SimpleParentChild.cs
+END
+IDrsFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/IDrsFixture.cs
+END
+Db4oDrsFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Db4oDrsFixture.cs
+END
+ArrayReplicationTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ArrayReplicationTest.cs
+END
+ListHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ListHolder.cs
+END
+TheSimplestTestSuite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/TheSimplestTestSuite.cs
+END
+DrsFixturePair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/DrsFixturePair.cs
+END
+MapHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/MapHolder.cs
+END
+Replicated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Replicated.cs
+END
+TransientReplicationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/TransientReplicationProvider.cs
+END
+ArrayHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ArrayHolder.cs
+END
+ReplicationFeaturesMain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ReplicationFeaturesMain.cs
+END
+MapTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/MapTest.cs
+END
+ReplicationAfterDeletionTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ReplicationAfterDeletionTest.cs
+END
+R0.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/R0.cs
+END
+IIByteArrayHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/IIByteArrayHolder.cs
+END
+R2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/R2.cs
+END
+DrsTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/DrsTestCase.cs
+END
+R4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/R4.cs
+END
+Student.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Student.cs
+END
+DeepListGraphTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/DeepListGraphTestCase.cs
+END
+Pilot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Pilot.cs
+END
+ArrayTestSuite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ArrayTestSuite.cs
+END
+SPCChild.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SPCChild.cs
+END
+Db4oClientServerDrsFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/Db4oClientServerDrsFixture.cs
+END
+ComplexListTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ComplexListTestCase.cs
+END
+SPCParent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SPCParent.cs
+END
+ByteArrayHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ByteArrayHolder.cs
+END
+TheSimplest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/TheSimplest.cs
+END
+CustomArrayListTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/CustomArrayListTestCase.cs
+END
+ByteArrayTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ByteArrayTest.cs
+END
+DrsTestSuite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/DrsTestSuite.cs
+END
+DateReplicationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/DateReplicationTestCase.cs
+END
+DrsFixtureVariable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/DrsFixtureVariable.cs
+END
+ListContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/ListContent.cs
+END
+SimpleItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/SimpleItem.cs
+END
+MapContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/MapContent.cs
+END
+DrsTestSuiteBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs.Tests/Db4objects.Drs.Tests/DrsTestSuiteBuilder.cs
+END

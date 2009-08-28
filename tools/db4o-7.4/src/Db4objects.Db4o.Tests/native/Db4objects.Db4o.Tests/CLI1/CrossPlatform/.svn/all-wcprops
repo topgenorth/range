@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform/AllTests.cs
+END
+DotnetServerCrossplatformTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform/DotnetServerCrossplatformTestCase.cs
+END
+TrackQueryOptimization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform/TrackQueryOptimization.cs
+END
+Movies.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform/Movies.cs
+END
+JavaServerCrossplatformTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform/JavaServerCrossplatformTestCase.cs
+END
+CrossplatformTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform/CrossplatformTestCaseBase.cs
+END
+Person.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform/Person.cs
+END
+PersonEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CrossPlatform/PersonEvaluator.cs
+END

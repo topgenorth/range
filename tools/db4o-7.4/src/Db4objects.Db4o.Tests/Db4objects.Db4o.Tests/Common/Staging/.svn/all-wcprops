@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging/AllTests.cs
+END
+ObjectVersionTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging/ObjectVersionTest.cs
+END
+ClientServerPingTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging/ClientServerPingTestCase.cs
+END
+ActivateDepthTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging/ActivateDepthTestCase.cs
+END
+InterfaceQueryTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging/InterfaceQueryTestCase.cs
+END
+LazyQueryDeleteTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging/LazyQueryDeleteTestCase.cs
+END
+SODAClassTypeDescend.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging/SODAClassTypeDescend.cs
+END
+PingTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Staging/PingTestCase.cs
+END

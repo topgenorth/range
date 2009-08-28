@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/AllTests.cs
+END
+NonActivatableBaseClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/NonActivatableBaseClass.cs
+END
+TATestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/TATestCaseBase.cs
+END
+TAEnsureDb4oReferenceIsAdded.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/TAEnsureDb4oReferenceIsAdded.cs
+END
+TAInstrumentationAppliedMoreThanOnceCOR-918.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/TAInstrumentationAppliedMoreThanOnceCOR-918.cs
+END
+TAInstrumentationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/TAInstrumentationTestCase.cs
+END
+TAWarningOnSignedAssemblyInstrumentation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/TAWarningOnSignedAssemblyInstrumentation.cs
+END
+MockActivator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/MockActivator.cs
+END
+TABytecodeChangesTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/TABytecodeChangesTestCase.cs
+END
+TANonStorableTypeTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/TA/TANonStorableTypeTestCase.cs
+END

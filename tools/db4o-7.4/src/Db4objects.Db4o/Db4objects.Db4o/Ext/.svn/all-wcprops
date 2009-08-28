@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext
+END
+IStoredField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IStoredField.cs
+END
+DatabaseReadOnlyException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/DatabaseReadOnlyException.cs
+END
+Status.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/Status.cs
+END
+IExtObjectServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IExtObjectServer.cs
+END
+InvalidPasswordException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/InvalidPasswordException.cs
+END
+DatabaseMaximumSizeReachedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/DatabaseMaximumSizeReachedException.cs
+END
+VirtualField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/VirtualField.cs
+END
+Db4oUnexpectedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/Db4oUnexpectedException.cs
+END
+IStoredClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IStoredClass.cs
+END
+ExtDb4oFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/ExtDb4oFactory.cs
+END
+ObjectNotStorableException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/ObjectNotStorableException.cs
+END
+OldFormatException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/OldFormatException.cs
+END
+InvalidSlotException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/InvalidSlotException.cs
+END
+IObjectInfoCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IObjectInfoCollection.cs
+END
+IExtObjectSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IExtObjectSet.cs
+END
+DatabaseClosedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/DatabaseClosedException.cs
+END
+Db4oDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/Db4oDatabase.cs
+END
+IDb4oCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IDb4oCallback.cs
+END
+IObjectCallbacks.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IObjectCallbacks.cs
+END
+Db4oUUID.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/Db4oUUID.cs
+END
+InvalidIDException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/InvalidIDException.cs
+END
+IObjectInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IObjectInfo.cs
+END
+IncompatibleFileFormatException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IncompatibleFileFormatException.cs
+END
+Db4oIOException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/Db4oIOException.cs
+END
+BackupInProgressException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/BackupInProgressException.cs
+END
+IExtObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IExtObjectContainer.cs
+END
+DatabaseFileLockedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/DatabaseFileLockedException.cs
+END
+Db4oException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/Db4oException.cs
+END
+MemoryFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/MemoryFile.cs
+END
+IExtClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/IExtClient.cs
+END
+ISystemInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Ext/ISystemInfo.cs
+END

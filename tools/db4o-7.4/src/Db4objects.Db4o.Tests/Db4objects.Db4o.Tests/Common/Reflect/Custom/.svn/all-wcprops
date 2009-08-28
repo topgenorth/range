@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/AllTests.cs
+END
+CustomReflectorTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/CustomReflectorTestCase.cs
+END
+ObjectSetIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/ObjectSetIterator.cs
+END
+CustomField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/CustomField.cs
+END
+PersistentEntryTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/PersistentEntryTemplate.cs
+END
+Logger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/Logger.cs
+END
+CustomClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/CustomClass.cs
+END
+CustomClassRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/CustomClassRepository.cs
+END
+CustomReflector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/CustomReflector.cs
+END
+CustomUidField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/CustomUidField.cs
+END
+PersistentEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/PersistentEntry.cs
+END
+Db4oPersistenceProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/Db4oPersistenceProvider.cs
+END
+IPersistenceProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/IPersistenceProvider.cs
+END
+PersistenceContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Reflect/Custom/PersistenceContext.cs
+END

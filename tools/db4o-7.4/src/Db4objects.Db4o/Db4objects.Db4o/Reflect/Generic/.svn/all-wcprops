@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic
+END
+GenericArray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericArray.cs
+END
+IGenericConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/IGenericConverter.cs
+END
+GenericField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericField.cs
+END
+GenericArrayClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericArrayClass.cs
+END
+GenericArrayReflector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericArrayReflector.cs
+END
+GenericClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericClass.cs
+END
+GenericReflector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericReflector.cs
+END
+GenericObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericObject.cs
+END
+CollectionUpdateDepthEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/CollectionUpdateDepthEntry.cs
+END
+GenericVirtualField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericVirtualField.cs
+END
+GenericClassBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/GenericClassBuilder.cs
+END
+IReflectClassBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/IReflectClassBuilder.cs
+END
+KnownClassesRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/Generic/KnownClassesRepository.cs
+END

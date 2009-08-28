@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures
+END
+Db4oClientServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/Db4oClientServer.cs
+END
+AbstractSoloDb4oFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/AbstractSoloDb4oFixture.cs
+END
+AbstractFileBasedDb4oFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/AbstractFileBasedDb4oFixture.cs
+END
+AbstractDb4oFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/AbstractDb4oFixture.cs
+END
+Db4oSolo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/Db4oSolo.cs
+END
+IOptOutCS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IOptOutCS.cs
+END
+IOptOutFromTestFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IOptOutFromTestFixture.cs
+END
+IOptOutNoFileSystemData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IOptOutNoFileSystemData.cs
+END
+IOptOutSolo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IOptOutSolo.cs
+END
+IOptOutNetworkingCS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IOptOutNetworkingCS.cs
+END
+IConfigurationSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IConfigurationSource.cs
+END
+IOptOutAllButNetworkingCS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IOptOutAllButNetworkingCS.cs
+END
+CachingConfigurationSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/CachingConfigurationSource.cs
+END
+IndependentConfigurationSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IndependentConfigurationSource.cs
+END
+Db4oInMemory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/Db4oInMemory.cs
+END
+IOptOutDefragSolo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/IOptOutDefragSolo.cs
+END
+Db4oFixtureProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Fixtures/Db4oFixtureProvider.cs
+END

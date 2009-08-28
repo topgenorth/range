@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/AllTests.cs
+END
+OptimizationFailuresTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/OptimizationFailuresTestCase.cs
+END
+StringComparisonTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/StringComparisonTestCase.cs
+END
+NativeQueriesTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/NativeQueriesTestCase.cs
+END
+Predicates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/Predicates.cs
+END
+AbstractNativeQueriesTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/AbstractNativeQueriesTestCase.cs
+END
+MultipleAssemblySupportTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/MultipleAssemblySupportTestCase.cs
+END
+DoubleNQTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/DoubleNQTestCase.cs
+END
+Cat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/Cat.cs
+END
+ListElementByIdentity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NativeQueries/ListElementByIdentity.cs
+END

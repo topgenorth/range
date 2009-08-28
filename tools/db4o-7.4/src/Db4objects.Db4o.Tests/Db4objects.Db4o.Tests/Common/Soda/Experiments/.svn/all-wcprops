@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Soda/Experiments
+END
+STCaseInsensitiveTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Soda/Experiments/STCaseInsensitiveTestCase.cs
+END
+STMagicTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Soda/Experiments/STMagicTestCase.cs
+END
+STIdentityEvaluationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Soda/Experiments/STIdentityEvaluationTestCase.cs
+END
+STNullOnPathTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Soda/Experiments/STNullOnPathTestCase.cs
+END

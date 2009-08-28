@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oBench/Bench/Delaying
+END
+DelayCalculation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oBench/Bench/Delaying/DelayCalculation.cs
+END
+Delays.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oBench/Bench/Delaying/Delays.cs
+END
+DelayingIoAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oBench/Bench/Delaying/DelayingIoAdapter.cs
+END

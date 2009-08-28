@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Mapping
+END
+IdSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Mapping/IdSource.cs
+END
+MappedIDPairHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Mapping/MappedIDPairHandler.cs
+END
+MappedIDPair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Mapping/MappedIDPair.cs
+END
+IIDMapping.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Mapping/IIDMapping.cs
+END
+MappingNotFoundException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Mapping/MappingNotFoundException.cs
+END
+IDefragmentServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Mapping/IDefragmentServices.cs
+END

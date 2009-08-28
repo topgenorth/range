@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal
+END
+WriteContextInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/WriteContextInfo.cs
+END
+Config4Abstract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Config4Abstract.cs
+END
+ICommittedCallbackDispatcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ICommittedCallbackDispatcher.cs
+END
+SystemInfoFileImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/SystemInfoFileImpl.cs
+END
+ISlotCopyHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ISlotCopyHandler.cs
+END
+IoAdaptedObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IoAdaptedObjectContainer.cs
+END
+TransactionObjectCarrier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TransactionObjectCarrier.cs
+END
+LocalObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/LocalObjectContainer.cs
+END
+LazyObjectReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/LazyObjectReference.cs
+END
+FieldMetadataState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/FieldMetadataState.cs
+END
+LatinStringIO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/LatinStringIO.cs
+END
+EventDispatcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/EventDispatcher.cs
+END
+VersionFieldMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/VersionFieldMetadata.cs
+END
+FieldIndexException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/FieldIndexException.cs
+END
+IDHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IDHandler.cs
+END
+TransactionContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TransactionContext.cs
+END
+PersistentBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/PersistentBase.cs
+END
+ReferenceSystemRegistry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ReferenceSystemRegistry.cs
+END
+SharedIndexedFields.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/SharedIndexedFields.cs
+END
+IReadsObjectIds.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IReadsObjectIds.cs
+END
+PartialEmbeddedClientObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/PartialEmbeddedClientObjectContainer.cs
+END
+BlobImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/BlobImpl.cs
+END
+ObjectContainerFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ObjectContainerFactory.cs
+END
+TranslatedAspect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TranslatedAspect.cs
+END
+IDGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IDGenerator.cs
+END
+Exceptions4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Exceptions4.cs
+END
+HandlerRegistry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/HandlerRegistry.cs
+END
+ClassMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ClassMetadata.cs
+END
+IVersionedTypeHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IVersionedTypeHandler.cs
+END
+IReadable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IReadable.cs
+END
+Const4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Const4.cs
+END
+Null.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Null.cs
+END
+Config4Impl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Config4Impl.cs
+END
+IReferenceSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IReferenceSystem.cs
+END
+ExternalObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ExternalObjectContainer.cs
+END
+ObjectAnalyzer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ObjectAnalyzer.cs
+END
+SerializedGraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/SerializedGraph.cs
+END
+WeakReferenceCollector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/WeakReferenceCollector.cs
+END
+PersistentIntegerArray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/PersistentIntegerArray.cs
+END
+IInternalObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IInternalObjectContainer.cs
+END
+TypeHandlerAspect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TypeHandlerAspect.cs
+END
+HashtableReferenceSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/HashtableReferenceSystem.cs
+END
+ConfigBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ConfigBlock.cs
+END
+ObjectInfoCollectionImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ObjectInfoCollectionImpl.cs
+END
+PendingClassInits.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/PendingClassInits.cs
+END
+LockedTree.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/LockedTree.cs
+END
+StatefulBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/StatefulBuffer.cs
+END
+HardObjectReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/HardObjectReference.cs
+END
+Message.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Message.cs
+END
+Transaction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Transaction.cs
+END
+TransportObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TransportObjectContainer.cs
+END
+NullTransactionListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/NullTransactionListener.cs
+END
+IReadWriteBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IReadWriteBuffer.cs
+END
+VirtualFieldMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/VirtualFieldMetadata.cs
+END
+VirtualAttributes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/VirtualAttributes.cs
+END
+ITransactionParticipant.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ITransactionParticipant.cs
+END
+IntMatcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IntMatcher.cs
+END
+ReflectException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ReflectException.cs
+END
+FrozenObjectInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/FrozenObjectInfo.cs
+END
+StoredClassImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/StoredClassImpl.cs
+END
+Serializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Serializer.cs
+END
+UUIDFieldMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/UUIDFieldMetadata.cs
+END
+UntypedFieldHandler2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/UntypedFieldHandler2.cs
+END
+TreeStringObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TreeStringObject.cs
+END
+DeleteInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/DeleteInfo.cs
+END
+IBuiltinTypeHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IBuiltinTypeHandler.cs
+END
+Config4Class.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Config4Class.cs
+END
+ICanHoldAnythingHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ICanHoldAnythingHandler.cs
+END
+TreeReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TreeReader.cs
+END
+FieldMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/FieldMetadata.cs
+END
+Handlers4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Handlers4.cs
+END
+IDb4oTypeImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IDb4oTypeImpl.cs
+END
+TransactionalReferenceSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TransactionalReferenceSystem.cs
+END
+TreeString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TreeString.cs
+END
+IIndexable4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IIndexable4.cs
+END
+IDefragmentContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IDefragmentContext.cs
+END
+IObjectContainerSpec.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IObjectContainerSpec.cs
+END
+SlotChangeCollector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/SlotChangeCollector.cs
+END
+ReflectorConfigurationImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ReflectorConfigurationImpl.cs
+END
+LocalTransaction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/LocalTransaction.cs
+END
+TreeIntObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TreeIntObject.cs
+END
+IComparable4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IComparable4.cs
+END
+AbstractBufferContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/AbstractBufferContext.cs
+END
+TypeHandlerCloneContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TypeHandlerCloneContext.cs
+END
+ClassAspect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ClassAspect.cs
+END
+UnicodeStringIO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/UnicodeStringIO.cs
+END
+Messages.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Messages.cs
+END
+TreeInt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TreeInt.cs
+END
+ISecondClassTypeHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ISecondClassTypeHandler.cs
+END
+PrimitiveFieldHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/PrimitiveFieldHandler.cs
+END
+HandlerVersionRegistry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/HandlerVersionRegistry.cs
+END
+ClassIndexException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ClassIndexException.cs
+END
+SystemData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/SystemData.cs
+END
+Reflection4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Reflection4.cs
+END
+NullFieldMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/NullFieldMetadata.cs
+END
+ClassMetadataIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ClassMetadataIterator.cs
+END
+IllegalComparisonException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IllegalComparisonException.cs
+END
+Session.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Session.cs
+END
+IReadWriteable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IReadWriteable.cs
+END
+ObjectID.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ObjectID.cs
+END
+ObjectReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ObjectReference.cs
+END
+StoredFieldImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/StoredFieldImpl.cs
+END
+PartialObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/PartialObjectContainer.cs
+END
+InMemoryObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/InMemoryObjectContainer.cs
+END
+UntypedFieldHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/UntypedFieldHandler.cs
+END
+PreparedArrayContainsComparison.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/PreparedArrayContainsComparison.cs
+END
+MarshallingBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/MarshallingBuffer.cs
+END
+ByteArrayBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ByteArrayBuffer.cs
+END
+Config4Field.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Config4Field.cs
+END
+CallbackObjectInfoCollections.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/CallbackObjectInfoCollections.cs
+END
+NullableArrayHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/NullableArrayHandling.cs
+END
+HashcodeReferenceSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/HashcodeReferenceSystem.cs
+END
+ShutDownRunnable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ShutDownRunnable.cs
+END
+DefragmentContextImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/DefragmentContextImpl.cs
+END
+IIndexableTypeHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IIndexableTypeHandler.cs
+END
+ClassMetadataRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/ClassMetadataRepository.cs
+END
+TypeHandlerConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/TypeHandlerConfiguration.cs
+END
+IPersistent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/IPersistent.cs
+END
+UntypedFieldHandler0.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/UntypedFieldHandler0.cs
+END

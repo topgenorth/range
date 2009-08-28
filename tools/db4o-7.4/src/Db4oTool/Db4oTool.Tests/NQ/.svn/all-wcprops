@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/NQ
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/NQ/AllTests.cs
+END
+DelegateBuildTimeOptimizationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/NQ/DelegateBuildTimeOptimizationTestCase.cs
+END
+PredicateBuildTimeOptimizationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/NQ/PredicateBuildTimeOptimizationTestCase.cs
+END
+UnoptimizablePredicatesTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool.Tests/NQ/UnoptimizablePredicatesTestCase.cs
+END

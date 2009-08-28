@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/Util
+END
+IOServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/Util/IOServices.cs
+END
+CompilationServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/Util/CompilationServices.cs
+END
+WorkspaceServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/Util/WorkspaceServices.cs
+END
+JavaServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/Util/JavaServices.cs
+END

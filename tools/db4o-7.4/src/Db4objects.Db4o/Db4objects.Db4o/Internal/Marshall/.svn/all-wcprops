@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall
+END
+SlotFormat2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/SlotFormat2.cs
+END
+ObjectHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ObjectHeader.cs
+END
+FieldMarshaller1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/FieldMarshaller1.cs
+END
+PrimitiveMarshaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/PrimitiveMarshaller.cs
+END
+ContextState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ContextState.cs
+END
+ObjectHeaderAttributes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ObjectHeaderAttributes.cs
+END
+ObjectReferenceContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ObjectReferenceContext.cs
+END
+MarshallerFamily.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/MarshallerFamily.cs
+END
+IHandlerVersionContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/IHandlerVersionContext.cs
+END
+ClassMarshaller1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ClassMarshaller1.cs
+END
+IAspectVersionContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/IAspectVersionContext.cs
+END
+PrimitiveMarshaller1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/PrimitiveMarshaller1.cs
+END
+IFieldListInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/IFieldListInfo.cs
+END
+QueryingReadContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/QueryingReadContext.cs
+END
+MarshallingContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/MarshallingContext.cs
+END
+MarshallingContextState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/MarshallingContextState.cs
+END
+CollectIdContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/CollectIdContext.cs
+END
+IFieldMarshaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/IFieldMarshaller.cs
+END
+RawFieldSpec.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/RawFieldSpec.cs
+END
+ObjectIdContextImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ObjectIdContextImpl.cs
+END
+AspectVersionContextImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/AspectVersionContextImpl.cs
+END
+FieldMarshaller0.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/FieldMarshaller0.cs
+END
+ClassMarshaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ClassMarshaller.cs
+END
+FieldMarshaller2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/FieldMarshaller2.cs
+END
+AspectType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/AspectType.cs
+END
+AbstractFieldMarshaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/AbstractFieldMarshaller.cs
+END
+ObjectHeaderContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ObjectHeaderContext.cs
+END
+IMarshallingInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/IMarshallingInfo.cs
+END
+IInternalReadContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/IInternalReadContext.cs
+END
+IdObjectCollector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/IdObjectCollector.cs
+END
+RawClassSpec.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/RawClassSpec.cs
+END
+SlotFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/SlotFormat.cs
+END
+SlotFormatCurrent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/SlotFormatCurrent.cs
+END
+ClassMarshaller0.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ClassMarshaller0.cs
+END
+IObjectIdContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/IObjectIdContext.cs
+END
+ClassMarshaller2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/ClassMarshaller2.cs
+END
+PrimitiveMarshaller0.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/PrimitiveMarshaller0.cs
+END
+AbstractReadContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/AbstractReadContext.cs
+END
+UnmarshallingContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/UnmarshallingContext.cs
+END
+SlotFormat0.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Internal/Marshall/SlotFormat0.cs
+END

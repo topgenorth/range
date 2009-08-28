@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect
+END
+IReflectArray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/IReflectArray.cs
+END
+IReflectMethod.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/IReflectMethod.cs
+END
+IReflector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/IReflector.cs
+END
+IReflectField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/IReflectField.cs
+END
+ReflectClassByRef.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/ReflectClassByRef.cs
+END
+IReflectClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/IReflectClass.cs
+END
+IReflectClassPredicate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/IReflectClassPredicate.cs
+END
+IReflectorConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/IReflectorConfiguration.cs
+END
+MultidimensionalArrayInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/MultidimensionalArrayInfo.cs
+END
+ArrayInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Reflect/ArrayInfo.cs
+END

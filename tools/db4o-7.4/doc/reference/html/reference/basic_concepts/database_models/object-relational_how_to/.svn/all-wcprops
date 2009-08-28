@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/basic_concepts/database_models/object-relational_how_to
+END
+unique_constraints.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/basic_concepts/database_models/object-relational_how_to/unique_constraints.html
+END
+referential_integrity.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/basic_concepts/database_models/object-relational_how_to/referential_integrity.html
+END
+indexes.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/basic_concepts/database_models/object-relational_how_to/indexes.html
+END
+foreign_keys.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/basic_concepts/database_models/object-relational_how_to/foreign_keys.html
+END
+triggers.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/basic_concepts/database_models/object-relational_how_to/triggers.html
+END
+identity_and_primary_keys.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/basic_concepts/database_models/object-relational_how_to/identity_and_primary_keys.html
+END
+concurrency_control.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/basic_concepts/database_models/object-relational_how_to/concurrency_control.html
+END

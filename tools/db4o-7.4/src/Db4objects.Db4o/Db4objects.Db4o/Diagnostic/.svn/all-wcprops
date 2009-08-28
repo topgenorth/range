@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic
+END
+IDiagnostic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/IDiagnostic.cs
+END
+DiagnosticBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/DiagnosticBase.cs
+END
+DefragmentRecommendation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/DefragmentRecommendation.cs
+END
+NativeQueryNotOptimized.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/NativeQueryNotOptimized.cs
+END
+IDiagnosticListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/IDiagnosticListener.cs
+END
+UpdateDepthGreaterOne.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/UpdateDepthGreaterOne.cs
+END
+ClassHasNoFields.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/ClassHasNoFields.cs
+END
+IDiagnosticConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/IDiagnosticConfiguration.cs
+END
+DeletionFailed.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/DeletionFailed.cs
+END
+DescendIntoTranslator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/DescendIntoTranslator.cs
+END
+NativeQueryOptimizerNotLoaded.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/NativeQueryOptimizerNotLoaded.cs
+END
+DiagnosticToConsole.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/DiagnosticToConsole.cs
+END
+LoadedFromClassIndex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/Db4objects.Db4o/Diagnostic/LoadedFromClassIndex.cs
+END

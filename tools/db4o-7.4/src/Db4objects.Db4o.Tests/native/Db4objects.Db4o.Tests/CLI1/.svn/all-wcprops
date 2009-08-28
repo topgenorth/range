@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1
+END
+CsCustomTransientAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsCustomTransientAttribute.cs
+END
+ImageTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/ImageTestCase.cs
+END
+CsAssemblyVersionChange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsAssemblyVersionChange.cs
+END
+CsAppDomains.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsAppDomains.cs
+END
+CsValueTypesTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsValueTypesTestCase.cs
+END
+NonSerializedAttributeTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/NonSerializedAttributeTestCase.cs
+END
+CsCascadeDeleteToStructs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsCascadeDeleteToStructs.cs
+END
+ObjectInfoMigrationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/ObjectInfoMigrationTestCase.cs
+END
+CsEvaluationDelegate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsEvaluationDelegate.cs
+END
+ShutdownMultipleContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/ShutdownMultipleContainer.cs
+END
+CsEnum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsEnum.cs
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/AllTests.cs
+END
+CultureInfoTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CultureInfoTestCase.cs
+END
+MDArrayTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/MDArrayTestCase.cs
+END
+CsStructs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsStructs.cs
+END
+ObjectSetAsListTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/ObjectSetAsListTestCase.cs
+END
+CsStructsRegression.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsStructsRegression.cs
+END
+JavaUUIDCompatibilityTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/JavaUUIDCompatibilityTestCase.cs
+END
+CsDelegate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsDelegate.cs
+END
+JavaCompatibilityTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/JavaCompatibilityTestCaseBase.cs
+END
+CsDate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsDate.cs
+END
+MarshalByRefDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/MarshalByRefDatabase.cs
+END
+CsCollections.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsCollections.cs
+END
+JavaDateCompatibilityTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/JavaDateCompatibilityTestCase.cs
+END
+CsMarshalByRef.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsMarshalByRef.cs
+END
+CsDisposableTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsDisposableTestCase.cs
+END
+CsType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsType.cs
+END
+CsImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/CsImage.cs
+END

@@ -1,0 +1,2 @@
+#!/bin/sh
+mono src/Opgenorth.RangeLog.UI.WinForms/bin/Debug/RangeLog.exe

@@ -1,0 +1,168 @@
+/* Copyright (C) 2004 - 2008  db4objects Inc.  http://www.db4o.com
+
+This file is part of the db4o open source object database.
+
+db4o is free software; you can redistribute it and/or modify it under
+the terms of version 2 of the GNU General Public License as published
+by the Free Software Foundation and as clarified by db4objects' GPL 
+interpretation policy, available at
+http://www.db4o.com/about/company/legalpolicies/gplinterpretation/
+Alternatively you can write to db4objects, Inc., 1900 S Norfolk Street,
+Suite 350, San Mateo, CA 94403, USA.
+
+db4o is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
+for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+59 Temple Place - Suite 330, Boston, MA  02111-1307, USA. */
+using Db4oUnit;
+using Db4objects.Db4o.Ext;
+using Db4objects.Db4o.Tests.Common.Handlers;
+
+namespace Db4objects.Db4o.Tests.Common.Handlers
+{
+	public class NestedArrayUpdateTestCase : HandlerUpdateTestCaseBase
+	{
+		private static readonly object[] primitiveArrayData = new object[] { new int[] { 
+			1, 2, 3 }, new int[] { 4, 5 }, new int[] {  } };
+
+		private static readonly object[] stringArrayData = new object[] { new string[] { 
+			"one", null, string.Empty }, new string[] { "two" }, new string[] { string.Empty
+			 }, new string[] {  } };
+
+		private static readonly object[] nestedArrayData = new object[] { new object[] { 
+			primitiveArrayData, stringArrayData }, new object[] { primitiveArrayData, stringArrayData
+			 } };
+
+		private static readonly object[] nestedNestedArrayData = new object[] { new object
+			[] { nestedArrayData, nestedArrayData }, new object[] { nestedArrayData, nestedArrayData
+			 } };
+
+		public class ItemArrays
+		{
+			public object[] _primitiveArray;
+
+			public object _primitiveArrayInObject;
+
+			public object[] _stringArray;
+
+			public object _stringArrayInObject;
+
+			public object[] _nestedArray;
+
+			public object _nestedArrayInObject;
+
+			public object[] _nestedNestedArray;
+
+			public object _nestedNestedArrayInObject;
+		}
+
+		protected override object CreateArrays()
+		{
+			NestedArrayUpdateTestCase.ItemArrays item = new NestedArrayUpdateTestCase.ItemArrays
+				();
+			item._primitiveArray = primitiveArrayData;
+			item._primitiveArrayInObject = primitiveArrayData;
+			item._stringArray = stringArrayData;
+			item._stringArrayInObject = stringArrayData;
+			item._nestedArray = nestedArrayData;
+			item._nestedArrayInObject = nestedArrayData;
+			item._nestedNestedArray = nestedNestedArrayData;
+			item._nestedNestedArrayInObject = nestedNestedArrayData;
+			return item;
+		}
+
+		protected override void AssertArrays(IExtObjectContainer objectContainer, object 
+			obj)
+		{
+			NestedArrayUpdateTestCase.ItemArrays item = (NestedArrayUpdateTestCase.ItemArrays
+				)obj;
+			AssertPrimitiveArray(item._primitiveArray);
+			AssertPrimitiveArray(item._primitiveArrayInObject);
+			AssertStringArray(item._stringArray);
+			AssertStringArray(item._stringArrayInObject);
+			AssertNestedArray(nestedArrayData, item._nestedArray);
+			AssertNestedArray(nestedArrayData, item._nestedArrayInObject);
+			AssertNestedArray(nestedNestedArrayData, item._nestedNestedArray);
+			AssertNestedArray(nestedNestedArrayData, item._nestedNestedArrayInObject);
+		}
+
+		private void AssertNestedArray(object expected, object actual)
+		{
+			object[] expectedArray = (object[])expected;
+			object[] actualArray = (object[])actual;
+			Assert.AreEqual(expectedArray.Length, actualArray.Length);
+			for (int i = 0; i < expectedArray.Length; i++)
+			{
+				object[] expectedSubArray = (object[])expectedArray[i];
+				object actualSubArray = actualArray[i];
+				object template = expectedSubArray[0];
+				if (template is int[])
+				{
+					AssertPrimitiveArray(actualSubArray);
+				}
+				else
+				{
+					if (template is string[])
+					{
+						AssertStringArray(actualSubArray);
+					}
+					else
+					{
+						AssertNestedArray(expectedSubArray, actualSubArray);
+					}
+				}
+			}
+		}
+
+		private void AssertStringArray(object array)
+		{
+			object[] stringArray = (object[])array;
+			for (int i = 0; i < stringArray.Length; i++)
+			{
+				string[] actual = (string[])stringArray[i];
+				string[] expected = (string[])stringArrayData[i];
+				Assert.AreEqual(actual.Length, expected.Length);
+				for (int j = 0; j < expected.Length; j++)
+				{
+					Assert.AreEqual(expected[j], actual[j]);
+				}
+			}
+		}
+
+		private void AssertPrimitiveArray(object array)
+		{
+			object[] primitiveArray = (object[])array;
+			for (int i = 0; i < primitiveArray.Length; i++)
+			{
+				int[] expected = (int[])primitiveArrayData[i];
+				int[] actual = CastToIntArray(primitiveArray[i]);
+				Assert.AreEqual(actual.Length, expected.Length);
+				for (int j = 0; j < expected.Length; j++)
+				{
+					Assert.AreEqual(expected[j], actual[j]);
+				}
+			}
+		}
+
+		protected override object[] CreateValues()
+		{
+			// not used
+			return null;
+		}
+
+		protected override void AssertValues(IExtObjectContainer objectContainer, object[]
+			 values)
+		{
+		}
+
+		// not used
+		protected override string TypeName()
+		{
+			return "nested_array";
+		}
+	}
+}

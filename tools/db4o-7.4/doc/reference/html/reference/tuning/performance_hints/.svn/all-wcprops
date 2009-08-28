@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints
+END
+defragment.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/defragment.html
+END
+no_test_instances.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/no_test_instances.html
+END
+indexescs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/indexescs.zip
+END
+indexesvb.zip.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/indexesvb.zip.html
+END
+turning_off_weak_references.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/turning_off_weak_references.html
+END
+optimizing_native_queries.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/optimizing_native_queries.html
+END
+no_shutdown_thread.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/no_shutdown_thread.html
+END
+flushfilebuffers.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/flushfilebuffers.html
+END
+persistent_and_transient_fields.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/persistent_and_transient_fields.html
+END
+inheritance_hierarchies.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/inheritance_hierarchies.html
+END
+calling_constructors.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/calling_constructors.html
+END
+b-tree_tuning.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/b-tree_tuning.html
+END
+indexesjava.zip.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/indexesjava.zip.html
+END
+reserving_storage_space.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/reserving_storage_space.html
+END
+trnflow.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/trnflow.jpg
+END
+enable_field_indexes.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/enable_field_indexes.html
+END
+no_lock_file_thread.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/no_lock_file_thread.html
+END
+no_callbacks.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/no_callbacks.html
+END
+automatic_shutdown.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/automatic_shutdown.html
+END
+commit_strategies.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/commit_strategies.html
+END
+prefetching_objects_for_query_results.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/prefetching_objects_for_query_results.html
+END
+discarding_free_space.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/discarding_free_space.html
+END
+no_schema_changes.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/no_schema_changes.html
+END
+prefetching_ids_for_new_objects.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/prefetching_ids_for_new_objects.html
+END
+indexesvb.zip
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/indexesvb.zip
+END
+indexescs.zip.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/indexescs.zip.html
+END
+unicode.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/unicode.html
+END
+no_class_index.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/no_class_index.html
+END
+activation_strategies.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/activation_strategies.html
+END
+increasing_the_maximum_database_file_size.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/increasing_the_maximum_database_file_size.html
+END
+indexesjava.zip
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/indexesjava.zip
+END
+randomaccessfileadapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/randomaccessfileadapter.html
+END
+no_field_evaluation.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/no_field_evaluation.html
+END
+trnflow.jpg.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/tuning/performance_hints/trnflow.jpg.html
+END

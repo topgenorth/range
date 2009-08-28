@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions
+END
+Db4oConcurrencyTestSuite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Db4oConcurrencyTestSuite.cs
+END
+ContainerServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/ContainerServices.cs
+END
+IFixtureConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/IFixtureConfiguration.cs
+END
+IOptOutTA.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/IOptOutTA.cs
+END
+IRuntimeConfigureAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/IRuntimeConfigureAction.cs
+END
+IDb4oTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/IDb4oTestCase.cs
+END
+IDb4oClientServerFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/IDb4oClientServerFixture.cs
+END
+Db4oConcurrencyTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Db4oConcurrencyTestCase.cs
+END
+Db4oTestSuite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Db4oTestSuite.cs
+END
+TAFixtureConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/TAFixtureConfiguration.cs
+END
+IOptOutAndroid.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/IOptOutAndroid.cs
+END
+Db4oFixtureVariable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Db4oFixtureVariable.cs
+END
+IContainerBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/IContainerBlock.cs
+END
+AbstractDb4oTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/AbstractDb4oTestCase.cs
+END
+IDb4oFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/IDb4oFixture.cs
+END
+Db4oTestSuiteBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Db4oTestSuiteBuilder.cs
+END
+Db4oClientServerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Db4oClientServerTestCase.cs
+END
+Db4oAssert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Db4oAssert.cs
+END

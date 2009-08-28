@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oBench/Bench/Logging
+END
+LogConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oBench/Bench/Logging/LogConstants.cs
+END
+LoggingIoAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oBench/Bench/Logging/LoggingIoAdapter.cs
+END

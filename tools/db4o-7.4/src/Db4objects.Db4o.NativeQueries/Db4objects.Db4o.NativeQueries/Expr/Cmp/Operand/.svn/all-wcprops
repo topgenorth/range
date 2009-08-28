@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand
+END
+ComparisonOperandDescendant.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/ComparisonOperandDescendant.cs
+END
+IComparisonOperand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/IComparisonOperand.cs
+END
+IComparisonOperandVisitor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/IComparisonOperandVisitor.cs
+END
+ArrayAccessValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/ArrayAccessValue.cs
+END
+StaticFieldRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/StaticFieldRoot.cs
+END
+FieldValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/FieldValue.cs
+END
+ConstValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/ConstValue.cs
+END
+ThreeWayComparison.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/ThreeWayComparison.cs
+END
+CandidateFieldRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/CandidateFieldRoot.cs
+END
+ComparisonOperandRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/ComparisonOperandRoot.cs
+END
+IComparisonOperandAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/IComparisonOperandAnchor.cs
+END
+PredicateFieldRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/PredicateFieldRoot.cs
+END
+ArithmeticExpression.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/ArithmeticExpression.cs
+END
+MethodCallValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Expr/Cmp/Operand/MethodCallValue.cs
+END

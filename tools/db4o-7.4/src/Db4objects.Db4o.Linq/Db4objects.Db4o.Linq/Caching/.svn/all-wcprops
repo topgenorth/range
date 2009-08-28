@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Caching
+END
+SingleItemCachingStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Caching/SingleItemCachingStrategy.cs
+END
+ICachingStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Caching/ICachingStrategy.cs
+END
+AllItemsCachingStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Caching/AllItemsCachingStrategy.cs
+END
+NullCachingStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Caching/NullCachingStrategy.cs
+END

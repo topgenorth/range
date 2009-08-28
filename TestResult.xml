@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="src/Opgenorth.RangeLog.Tests/bin/Debug/Opgenorth.RangeLog.Tests.dll" total="14" failures="0" not-run="0" date="2009-07-15" time="19:05:53">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 2.6.27.23" platform="Unix" cwd="/home/tom/work/rangelog.root" machine-name="linux-ga4t" user="tom" user-domain="linux-ga4t" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="src/Opgenorth.RangeLog.Tests/bin/Debug/Opgenorth.RangeLog.Tests.dll" success="True" time="0.631" asserts="0">
+    <results>
+      <test-suite name="Opgenorth" success="True" time="0.625" asserts="0">
+        <results>
+          <test-suite name="RangeLog" success="True" time="0.623" asserts="0">
+            <results>
+              <test-suite name="Tests" success="True" time="0.621" asserts="0">
+                <results>
+                  <test-suite name="Data" success="True" time="0.520" asserts="0">
+                    <results>
+                      <test-suite name="db4o" success="True" time="0.519" asserts="0">
+                        <results>
+                          <test-suite name="Db4oConnectionFactory_Tests" success="True" time="0.241" asserts="0">
+                            <results>
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oConnectionFactory_Tests.Create_a_Db4oConnection_object" executed="True" success="True" time="0.229" asserts="2" />
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oConnectionFactory_Tests.Throw_a_NullReferenceException_if_null_configuration_provided" executed="True" success="True" time="0.001" asserts="0" />
+                            </results>
+                          </test-suite>
+                          <test-suite name="Db4oObjectFinder_Tests" success="True" time="0.179" asserts="0">
+                            <results>
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oObjectFinder_Tests.Find_object_matching_a_Guid" executed="True" success="True" time="0.178" asserts="2" />
+                            </results>
+                          </test-suite>
+                          <test-suite name="Db4oRepository_Tests" success="True" time="0.085" asserts="0">
+                            <results>
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oRepository_Tests.Delete_an_existing_trip" executed="True" success="True" time="0.048" asserts="0" />
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oRepository_Tests.Fetch_a_trip_by_Guid" executed="True" success="True" time="0.011" asserts="1" />
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oRepository_Tests.Fetch_a_trip_by_Guid_returns_null" executed="True" success="True" time="0.001" asserts="1" />
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oRepository_Tests.Saving_a_trip" executed="True" success="True" time="0.011" asserts="0" />
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oRepository_Tests.Should_fetch_all_trips" executed="True" success="True" time="0.008" asserts="0" />
+                              <test-case name="Opgenorth.RangeLog.Tests.Data.db4o.Db4oRepository_Tests.Update_an_existing_trip" executed="True" success="True" time="0.001" asserts="0" />
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                  <test-suite name="InitializeCommonServiceLocatorCommand_Tests" success="True" time="0.080" asserts="0">
+                    <results>
+                      <test-case name="Opgenorth.RangeLog.Tests.InitializeCommonServiceLocatorCommand_Tests.CommonServiceLocator_is_initialized" executed="True" success="True" time="0.000" asserts="2" />
+                      <test-case name="Opgenorth.RangeLog.Tests.InitializeCommonServiceLocatorCommand_Tests.Has_an_instance_of_IDb4oConfiguration" executed="True" success="True" time="0.001" asserts="1" />
+                      <test-case name="Opgenorth.RangeLog.Tests.InitializeCommonServiceLocatorCommand_Tests.Has_an_instance_of_IDb4oConnectionFactory" executed="True" success="True" time="0.000" asserts="1" />
+                      <test-case name="Opgenorth.RangeLog.Tests.InitializeCommonServiceLocatorCommand_Tests.Has_an_instance_of_IDb4oTripRepository" executed="True" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="When_EnumerableActions_told_to_visit_all_items" success="True" time="0.013" asserts="0">
+                    <results>
+                      <test-case name="Opgenorth.RangeLog.Tests.When_EnumerableActions_told_to_visit_all_items.Should_tell_visitor_to_visit_all_items_in_the_enumerable" executed="True" success="True" time="0.012" asserts="0" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

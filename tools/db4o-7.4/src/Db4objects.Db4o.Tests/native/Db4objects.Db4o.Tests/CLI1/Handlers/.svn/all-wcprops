@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers
+END
+UIntHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/UIntHandlerUpdateTestCase.cs
+END
+UShortHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/UShortHandlerTestCase.cs
+END
+ULongHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/ULongHandlerTestCase.cs
+END
+SByteHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/SByteHandlerTestCase.cs
+END
+ULongHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/ULongHandlerUpdateTestCase.cs
+END
+StructHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/StructHandlerUpdateTestCase.cs
+END
+UShortHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/UShortHandlerUpdateTestCase.cs
+END
+SByteHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/SByteHandlerUpdateTestCase.cs
+END
+NestedStructHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/NestedStructHandlerUpdateTestCase.cs
+END
+GUIDHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/GUIDHandlerUpdateTestCase.cs
+END
+DateTimeHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/DateTimeHandlerTestCase.cs
+END
+DecimalHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/DecimalHandlerTestCase.cs
+END
+DateTimeHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/DateTimeHandlerUpdateTestCase.cs
+END
+DecimalHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/DecimalHandlerUpdateTestCase.cs
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/AllTests.cs
+END
+SimplestPossibleHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/SimplestPossibleHandlerUpdateTestCase.cs
+END
+UIntHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI1/Handlers/UIntHandlerTestCase.cs
+END

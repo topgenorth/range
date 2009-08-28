@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI2/Handlers
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI2/Handlers/AllTests.cs
+END
+GenericListVersionUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI2/Handlers/GenericListVersionUpdateTestCase.cs
+END
+TypeHandlerConfigurationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI2/Handlers/TypeHandlerConfigurationTestCase.cs
+END
+GenericDictionaryVersionUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI2/Handlers/GenericDictionaryVersionUpdateTestCase.cs
+END

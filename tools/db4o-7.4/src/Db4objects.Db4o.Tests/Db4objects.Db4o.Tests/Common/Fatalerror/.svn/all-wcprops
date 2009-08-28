@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fatalerror
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fatalerror/AllTests.cs
+END
+FatalExceptionInNestedCallTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fatalerror/FatalExceptionInNestedCallTestCase.cs
+END
+NativeQueryTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fatalerror/NativeQueryTestCase.cs
+END

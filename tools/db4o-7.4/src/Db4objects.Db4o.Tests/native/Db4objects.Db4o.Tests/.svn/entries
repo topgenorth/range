@@ -1,0 +1,117 @@
+9
+
+dir
+72
+http://tom:xian!!@svn.opgenorth.net:8445/svn/rangelog/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests
+http://tom:xian!!@svn.opgenorth.net:8445/svn/rangelog
+
+
+
+2009-01-17T04:32:57.631125Z
+6
+tom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+88baf8f1-4e68-f646-93ba-cf5a69a85121
+
+AllTests.cs
+file
+
+
+
+
+2009-07-12T22:24:04.000000Z
+96e12c7bba27fa889bbd7eec809898e6
+2009-01-17T04:32:57.631125Z
+6
+tom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2529
+
+SharpenLang
+dir
+
+Jre5
+dir
+
+Compact
+dir
+
+CLI1
+dir
+
+Common
+dir
+
+CLI2
+dir
+
+AllTestsConcurrency.cs
+file
+
+
+
+
+2009-07-12T22:24:04.000000Z
+43fdc5ff46ce77cca7781f780e397ddb
+2009-01-17T04:32:57.631125Z
+6
+tom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1383
+
+Util
+dir
+

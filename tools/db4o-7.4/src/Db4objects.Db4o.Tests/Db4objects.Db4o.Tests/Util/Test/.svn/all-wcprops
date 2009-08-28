@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Util/Test
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Util/Test/AllTests.cs
+END
+PermutingTestConfigTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Util/Test/PermutingTestConfigTestCase.cs
+END
+JavaServicesTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Util/Test/JavaServicesTestCase.cs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Concurrency
+END
+ConcurrencyTestMethod.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Concurrency/ConcurrencyTestMethod.cs
+END
+ConcurrencyConventions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Concurrency/ConcurrencyConventions.cs
+END
+Db4oConcurrencyTestSuiteBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Concurrency/Db4oConcurrencyTestSuiteBuilder.cs
+END

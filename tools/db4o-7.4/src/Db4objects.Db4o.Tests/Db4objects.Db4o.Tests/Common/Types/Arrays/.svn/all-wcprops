@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays/AllTests.cs
+END
+SimpleStringArrayTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays/SimpleStringArrayTestCase.cs
+END
+SimpleTypeArrayInUntypedVariableTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays/SimpleTypeArrayInUntypedVariableTestCase.cs
+END
+ByteArrayTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays/ByteArrayTestCase.cs
+END
+TypedArrayInObjectTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays/TypedArrayInObjectTestCase.cs
+END
+NestedArraysTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays/NestedArraysTestCase.cs
+END
+TypedDerivedArrayTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays/TypedDerivedArrayTestCase.cs
+END
+ArrayNOrderTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Types/Arrays/ArrayNOrderTestCase.cs
+END

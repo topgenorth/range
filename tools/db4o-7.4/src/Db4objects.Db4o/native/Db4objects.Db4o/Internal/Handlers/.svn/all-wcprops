@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers
+END
+DateHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/DateHandler.cs
+END
+DecimalHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/DecimalHandler.cs
+END
+UIntHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/UIntHandler.cs
+END
+StructHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/StructHandler.cs
+END
+ULongHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/ULongHandler.cs
+END
+UShortHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/UShortHandler.cs
+END
+SByteHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/SByteHandler.cs
+END
+WeakReferenceHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/WeakReferenceHandler.cs
+END
+IntegralTypeHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/IntegralTypeHandler.cs
+END
+PreparedComparasionFor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/PreparedComparasionFor.cs
+END
+WeakReferenceHandlerQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/WeakReferenceHandlerQueue.cs
+END
+DateTimeHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Internal/Handlers/DateTimeHandler.cs
+END

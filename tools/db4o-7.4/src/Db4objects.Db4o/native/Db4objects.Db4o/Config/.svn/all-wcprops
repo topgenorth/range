@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config
+END
+TTransient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/TTransient.cs
+END
+JavaSupport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/JavaSupport.cs
+END
+TList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/TList.cs
+END
+TCultureInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/TCultureInfo.cs
+END
+TType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/TType.cs
+END
+TQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/TQueue.cs
+END
+TClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/TClass.cs
+END
+TDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/TDictionary.cs
+END
+TStack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o/native/Db4objects.Db4o/Config/TStack.cs
+END

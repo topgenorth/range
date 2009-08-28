@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions
+END
+ExpressionQueryBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/ExpressionQueryBuilder.cs
+END
+SubtreeEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/SubtreeEvaluator.cs
+END
+HashCodeCalculation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/HashCodeCalculation.cs
+END
+OrderByClauseVisitorBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/OrderByClauseVisitorBase.cs
+END
+ExpressionVisitor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/ExpressionVisitor.cs
+END
+OrderByAscendingClauseVisitor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/OrderByAscendingClauseVisitor.cs
+END
+ExpressionTransformer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/ExpressionTransformer.cs
+END
+ExpressionTreeNormalizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/ExpressionTreeNormalizer.cs
+END
+ExpressionEnumeration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/ExpressionEnumeration.cs
+END
+ExpressionEqualityComparer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/ExpressionEqualityComparer.cs
+END
+OrderByDescendingClauseVisitor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/OrderByDescendingClauseVisitor.cs
+END
+WhereClauseVisitor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/WhereClauseVisitor.cs
+END
+ExpressionComparison.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Linq/Db4objects.Db4o.Linq/Expressions/ExpressionComparison.cs
+END

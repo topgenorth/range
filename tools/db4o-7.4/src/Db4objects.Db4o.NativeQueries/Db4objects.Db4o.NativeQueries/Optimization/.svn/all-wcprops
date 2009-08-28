@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Optimization
+END
+SODAQueryBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Optimization/SODAQueryBuilder.cs
+END
+ComparisonQueryGeneratingVisitor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.NativeQueries/Db4objects.Db4o.NativeQueries/Optimization/ComparisonQueryGeneratingVisitor.cs
+END

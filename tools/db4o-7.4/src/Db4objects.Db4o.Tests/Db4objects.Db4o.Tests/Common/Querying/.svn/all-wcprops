@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying
+END
+ConjunctiveQbETestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/ConjunctiveQbETestCase.cs
+END
+CascadedDeleteUpdate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadedDeleteUpdate.cs
+END
+ObjectSetTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/ObjectSetTestCase.cs
+END
+CascadeDeleteFalse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadeDeleteFalse.cs
+END
+CascadeOnUpdate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadeOnUpdate.cs
+END
+CascadeToArray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadeToArray.cs
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/AllTests.cs
+END
+CascadeDeleteDeleted.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadeDeleteDeleted.cs
+END
+CascadeOnDeleteHierarchyTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadeOnDeleteHierarchyTestCase.cs
+END
+LazyQueryResultTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/LazyQueryResultTestCase.cs
+END
+QueryResultTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/QueryResultTestCase.cs
+END
+CascadeOnActivate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadeOnActivate.cs
+END
+CascadeOnDelete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadeOnDelete.cs
+END
+CascadeDeleteArray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/CascadeDeleteArray.cs
+END
+OrderedQueryTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/OrderedQueryTestCase.cs
+END
+MultiFieldIndexQueryTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/MultiFieldIndexQueryTestCase.cs
+END
+QueryByExampleTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/QueryByExampleTestCase.cs
+END
+IdListQueryResultTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/IdListQueryResultTestCase.cs
+END
+QueryingVersionFieldTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/QueryingVersionFieldTestCase.cs
+END
+IndexedQueriesTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Querying/IndexedQueriesTestCase.cs
+END

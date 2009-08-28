@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside
+END
+MapHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/MapHandler.cs
+END
+CollectionHandlerImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/CollectionHandlerImpl.cs
+END
+ITestableReplicationProviderInside.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ITestableReplicationProviderInside.cs
+END
+IReadonlyReplicationProviderSignature.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/IReadonlyReplicationProviderSignature.cs
+END
+ReplicationReflector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ReplicationReflector.cs
+END
+ITestableReplicationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ITestableReplicationProvider.cs
+END
+ICollectionSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ICollectionSource.cs
+END
+DefaultReplicationEventListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/DefaultReplicationEventListener.cs
+END
+ObjectStateImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ObjectStateImpl.cs
+END
+IReplicationProviderInside.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/IReplicationProviderInside.cs
+END
+ISimpleObjectContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ISimpleObjectContainer.cs
+END
+ReplicationEventImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ReplicationEventImpl.cs
+END
+InstanceReplicationPreparer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/InstanceReplicationPreparer.cs
+END
+IReplicationReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/IReplicationReference.cs
+END
+ICollectionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ICollectionHandler.cs
+END
+ICounterpartFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ICounterpartFinder.cs
+END
+GenericReplicationSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/GenericReplicationSession.cs
+END
+ReplicationReferenceImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Inside/ReplicationReferenceImpl.cs
+END

@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers
+END
+BooleanHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/BooleanHandlerUpdateTestCase.cs
+END
+UntypedHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/UntypedHandlerTestCase.cs
+END
+IntHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/IntHandlerTestCase.cs
+END
+FormatMigrationTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/FormatMigrationTestCaseBase.cs
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/AllTests.cs
+END
+LongHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/LongHandlerUpdateTestCase.cs
+END
+ShortHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/ShortHandlerUpdateTestCase.cs
+END
+InterfaceHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/InterfaceHandlerUpdateTestCase.cs
+END
+SecondClassTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/SecondClassTestCase.cs
+END
+StringBufferHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/StringBufferHandlerUpdateTestCase.cs
+END
+ByteHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/ByteHandlerUpdateTestCase.cs
+END
+FloatHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/FloatHandlerUpdateTestCase.cs
+END
+StringHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/StringHandlerUpdateTestCase.cs
+END
+DoubleHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/DoubleHandlerTestCase.cs
+END
+ObjectArrayUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/ObjectArrayUpdateTestCase.cs
+END
+MultiDimensionalArrayHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/MultiDimensionalArrayHandlerTestCase.cs
+END
+CustomTypeHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/CustomTypeHandlerTestCase.cs
+END
+CharHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/CharHandlerTestCase.cs
+END
+MockWriteContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/MockWriteContext.cs
+END
+BooleanHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/BooleanHandlerTestCase.cs
+END
+NestedArrayUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/NestedArrayUpdateTestCase.cs
+END
+MockMarshallingContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/MockMarshallingContext.cs
+END
+CascadedDeleteFileFormatUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/CascadedDeleteFileFormatUpdateTestCase.cs
+END
+IntHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/IntHandlerUpdateTestCase.cs
+END
+LongHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/LongHandlerTestCase.cs
+END
+ShortHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/ShortHandlerTestCase.cs
+END
+MockReadContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/MockReadContext.cs
+END
+StringBufferHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/StringBufferHandlerTestCase.cs
+END
+ByteHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/ByteHandlerTestCase.cs
+END
+ClassHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/ClassHandlerTestCase.cs
+END
+FloatHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/FloatHandlerTestCase.cs
+END
+StringHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/StringHandlerTestCase.cs
+END
+MultidimensionalArrayIterator4TestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/MultidimensionalArrayIterator4TestCase.cs
+END
+IgnoreFieldsTypeHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/IgnoreFieldsTypeHandlerTestCase.cs
+END
+TypeHandlerTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/TypeHandlerTestCaseBase.cs
+END
+HandlerUpdateTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/HandlerUpdateTestCaseBase.cs
+END
+DoubleHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/DoubleHandlerUpdateTestCase.cs
+END
+ArrayHandlerTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/ArrayHandlerTestCase.cs
+END
+MultiDimensionalArrayHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/MultiDimensionalArrayHandlerUpdateTestCase.cs
+END
+ArrayListUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/ArrayListUpdateTestCase.cs
+END
+CharHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/CharHandlerUpdateTestCase.cs
+END
+DateHandlerUpdateTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Handlers/DateHandlerUpdateTestCase.cs
+END

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgenorth.RangeLog.Core", "src\Opgenorth.RangeLog.Core\Opgenorth.RangeLog.Core.csproj", "{CC5704B7-4BCC-44A8-9FDD-7C9ACBB7001D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgenorth.RangeLog.Tests", "src\Opgenorth.RangeLog.Tests\Opgenorth.RangeLog.Tests.csproj", "{46EBDA4C-43F9-4F0A-AF1B-E28A102CEAD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05ACADC8-D9BF-4DD4-B5D0-9937E00C8F58}"
+	ProjectSection(SolutionItems) = preProject
+		gendarme_ignore.txt = gendarme_ignore.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgenorth.RangeLog.UI.WinForms", "src\Opgenorth.RangeLog.UI.WinForms\Opgenorth.RangeLog.UI.WinForms.csproj", "{DEDCB24F-0013-4634-9058-5CDAD9CEF95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46EBDA4C-43F9-4F0A-AF1B-E28A102CEAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EBDA4C-43F9-4F0A-AF1B-E28A102CEAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EBDA4C-43F9-4F0A-AF1B-E28A102CEAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EBDA4C-43F9-4F0A-AF1B-E28A102CEAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5704B7-4BCC-44A8-9FDD-7C9ACBB7001D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5704B7-4BCC-44A8-9FDD-7C9ACBB7001D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5704B7-4BCC-44A8-9FDD-7C9ACBB7001D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5704B7-4BCC-44A8-9FDD-7C9ACBB7001D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDCB24F-0013-4634-9058-5CDAD9CEF95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDCB24F-0013-4634-9058-5CDAD9CEF95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDCB24F-0013-4634-9058-5CDAD9CEF95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDCB24F-0013-4634-9058-5CDAD9CEF95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		version = 0.1
+		StartupItem = src\Opgenorth.RangeLog.UI.WinForms\Opgenorth.RangeLog.UI.WinForms.csproj
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

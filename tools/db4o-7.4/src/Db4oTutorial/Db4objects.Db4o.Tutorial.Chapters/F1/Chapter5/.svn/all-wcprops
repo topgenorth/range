@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5
+END
+TemperatureSensorReadout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/TemperatureSensorReadout.cs
+END
+StopServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/StopServer.cs
+END
+SensorReadout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/SensorReadout.cs
+END
+ServerConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/ServerConfiguration.cs
+END
+ClientServerExample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/ClientServerExample.cs
+END
+TransactionExample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/TransactionExample.cs
+END
+StartServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/StartServer.cs
+END
+Car.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/Car.cs
+END
+PressureSensorReadout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/PressureSensorReadout.cs
+END
+Pilot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/Pilot.cs
+END
+DeepExample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTutorial/Db4objects.Db4o.Tutorial.Chapters/F1/Chapter5/DeepExample.cs
+END

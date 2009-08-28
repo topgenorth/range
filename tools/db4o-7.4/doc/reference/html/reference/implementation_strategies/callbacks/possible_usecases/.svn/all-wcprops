@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/implementation_strategies/callbacks/possible_usecases
+END
+autoincrement.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/implementation_strategies/callbacks/possible_usecases/autoincrement.html
+END
+referential_integrity.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/implementation_strategies/callbacks/possible_usecases/referential_integrity.html
+END
+query_statistics.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/implementation_strategies/callbacks/possible_usecases/query_statistics.html
+END
+cascaded_behavior.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/doc/reference/html/reference/implementation_strategies/callbacks/possible_usecases/cascaded_behavior.html
+END

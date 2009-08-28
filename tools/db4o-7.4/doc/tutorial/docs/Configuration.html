@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="docs.css">
+<!--[if gte IE 5]>
+     <link href="docs_ie.css" rel="stylesheet" type="text/css">
+<![endif]-->
+</head>
+<body><div id="pagecontainer"><table><tr><td width="5">&nbsp;</td><td><a name="Configuration"></a><br>
+<a name="outline220"></a><br><h1>13. Configuration</h1><br>
+db4o provides a wide range of configuration methods to request&nbsp;special behaviour. For a complete list of all available methods&nbsp;see the API documentation for the Db4objects.Db4o.Config namespace.&nbsp;A more complete description of Configuration usage and scope can also&nbsp;be obtained from the <a href="http://developer.db4o.com/resources/view.aspx/Reference/Tuning/Configuration" target="_blank">Reference</a>&nbsp;&nbsp;documentation.<br>
+<br>
+<br>
+Some hints around using configuration calls:<br>
+<br>
+<ul>
+<a name="outline221"></a><br><h2>13.1. Scope</h2>Configuration calls can be issued to a global configuration&nbsp;context with<br>
+<table width="100%" cellpadding="3" cellspacing="0" border="0"><tr><td class="lg">
+<code>Db4oFactory.Configure()</code></td></tr></table>
+<br>
+and to an open IObjectContainer/IObjectServer with <br>
+<table width="100%" cellpadding="3" cellspacing="0" border="0"><tr><td class="lg">
+<code>objectContainer.Ext().Configure() <br>
+objectServer.Ext().Configure()</code></td></tr></table>
+<br>
+A separate configuration instance can be obtained with<br>
+<table width="100%" cellpadding="3" cellspacing="0" border="0"><tr><td class="lg">
+<code>IConfiguration config = Db4oFactory.NewConfiguration()</code></td></tr></table>
+<br>
+or cloned from the global configuration with<br>
+<table width="100%" cellpadding="3" cellspacing="0" border="0"><tr><td class="lg">
+<code>IConfiguration config = Db4oFactory.CloneConfiguration()</code></td></tr></table>
+<br>
+Configuration can be submitted when an IObjectContainer/IObjectServer is opened:<br>
+<table width="100%" cellpadding="3" cellspacing="0" border="0"><tr><td class="lg">
+<code>Db4oFactory.OpenFile(config, filename)</code></td></tr></table>
+<br>
+Otherwise&nbsp;&nbsp;the global&nbsp;configuration context will be cloned and copied into the newly opened&nbsp;IObjectContainer/IObjectServer. Subsequent calls against the global&nbsp;context with Db4oFactory.Configure() have no effect on open&nbsp;IObjectContainers/IObjectServers.<br>
+<br>
+<a name="outline222"></a><br><h2>13.2. Calling Methods</h2>Many configuration methods have to be called before an&nbsp;IObjectContainer/IObjectServer is opened and will be ignored&nbsp;if they are called against open IObjectContainers/IObjectServers.&nbsp;Some examples:<br>
+<table width="100%" cellpadding="3" cellspacing="0" border="0"><tr><td class="lg">
+<code>Configuration conf = Db4oFactory.Configure();<br>
+conf.ObjectClass(typeof(Foo)).ObjectField("bar").Indexed(true);<br>
+conf.ObjectClass(typeof(Foo)).CascadeOnUpdate();<br>
+conf.ObjectClass(typeof(Foo)).CascadeOnDelete();<br>
+conf.ObjectClass(typeof(System.Drawing.Image))<br>
+&nbsp;&nbsp;.translate(new TSerializable());<br>
+conf.GenerateUUIDs(int.MAX_VALUE);<br>
+conf.GenerateVersionNumbers(int.MAX_VALUE);<br>
+conf.AutomaticShutDown(false);<br>
+conf.LockDatabaseFile(false);<br>
+conf.SingleThreadedClient(true);<br>
+conf.WeakReferences(false);</code></td></tr></table>
+<br>
+<br>
+Configurations that influence the database file format will&nbsp;have to take place, before a database is created, before the&nbsp;first #OpenXXX() call. Some examples:<br>
+<table width="100%" cellpadding="3" cellspacing="0" border="0"><tr><td class="lg">
+<code>Configuration conf = Db4oFactory.Configure();<br>
+conf.BlockSize(8);<br>
+conf.Unicode(false);</code></td></tr></table>
+<br>
+<br>
+Configuration settings are <b>not</b>&nbsp;stored in db4o database files.&nbsp;Accordingly the same configuration has to be submitted &nbsp;<b>every time</b>&nbsp;an ObjectContainer/ObjectServer is opened.&nbsp;For using db4o in client/server mode it is recommended to use the&nbsp;same configuration on the server and on the client. To&nbsp;set this up nicely it makes sense to create one application class&nbsp;with one method that creates an appropriate configuration and to deploy&nbsp;this class both to the server and to all clients.<br>
+<br><br><br><p align="center"><a href="http://www.db4o.com/" target=_top><small>www.db4o.com</small></a></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td></tr></table></div></body></html>

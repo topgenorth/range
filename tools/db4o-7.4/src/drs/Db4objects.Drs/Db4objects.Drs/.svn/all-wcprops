@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs
+END
+IReplicationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/IReplicationProvider.cs
+END
+IObjectState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/IObjectState.cs
+END
+IReplicationEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/IReplicationEvent.cs
+END
+IReplicationSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/IReplicationSession.cs
+END
+Replication.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/Replication.cs
+END
+IReplicationEventListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/IReplicationEventListener.cs
+END
+ReplicationConflictException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/drs/Db4objects.Drs/Db4objects.Drs/ReplicationConflictException.cs
+END

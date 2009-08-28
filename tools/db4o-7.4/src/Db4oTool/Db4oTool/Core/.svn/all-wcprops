@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core
+END
+IAssemblyInstrumentation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/IAssemblyInstrumentation.cs
+END
+ByNameFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/ByNameFilter.cs
+END
+SaveAssemblyInstrumentation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/SaveAssemblyInstrumentation.cs
+END
+CecilReflector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/CecilReflector.cs
+END
+DirectoryAssemblyResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/DirectoryAssemblyResolver.cs
+END
+MethodEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/MethodEditor.cs
+END
+AbstractAssemblyInstrumentation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/AbstractAssemblyInstrumentation.cs
+END
+InstrumentationPipeline.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/InstrumentationPipeline.cs
+END
+CurrentDirectoryAssemblyResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/CurrentDirectoryAssemblyResolver.cs
+END
+Statistics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/Statistics.cs
+END
+RelativeAssemblyResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/RelativeAssemblyResolver.cs
+END
+ITypeFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/ITypeFilter.cs
+END
+ILPattern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/ILPattern.cs
+END
+ByAttributeFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/ByAttributeFilter.cs
+END
+NotFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/NotFilter.cs
+END
+Configuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/Configuration.cs
+END
+InstrumentationContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/InstrumentationContext.cs
+END
+CompactFrameworkServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oTool/Db4oTool/Core/CompactFrameworkServices.cs
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex
+END
+RuntimeFieldIndexTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/RuntimeFieldIndexTestCase.cs
+END
+StringIndexCorruptionTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/StringIndexCorruptionTestCase.cs
+END
+IndexedNodeTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/IndexedNodeTestCase.cs
+END
+ComplexFieldIndexItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/ComplexFieldIndexItem.cs
+END
+StringIndexTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/StringIndexTestCaseBase.cs
+END
+SecondLevelIndexTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/SecondLevelIndexTestCase.cs
+END
+IHasFoo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/IHasFoo.cs
+END
+StringIndexTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/StringIndexTestCase.cs
+END
+FieldIndexItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/FieldIndexItem.cs
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/AllTests.cs
+END
+StringIndexWithSuperClassTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/StringIndexWithSuperClassTestCase.cs
+END
+StringFieldIndexTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/StringFieldIndexTestCase.cs
+END
+FieldIndexTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/FieldIndexTestCaseBase.cs
+END
+FieldIndexProcessorTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/FieldIndexProcessorTestCaseBase.cs
+END
+DoubleFieldIndexTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/DoubleFieldIndexTestCase.cs
+END
+NonIndexedFieldIndexItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/NonIndexedFieldIndexItem.cs
+END
+FieldIndexTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/FieldIndexTestCase.cs
+END
+FieldIndexProcessorTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/Db4objects.Db4o.Tests/Common/Fieldindex/FieldIndexProcessorTestCase.cs
+END

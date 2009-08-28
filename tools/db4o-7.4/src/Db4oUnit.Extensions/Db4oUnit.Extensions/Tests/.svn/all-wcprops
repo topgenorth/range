@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests
+END
+AllTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests/AllTests.cs
+END
+SimpleDb4oTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests/SimpleDb4oTestCase.cs
+END
+MultipleDb4oTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests/MultipleDb4oTestCase.cs
+END
+FixtureTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests/FixtureTestCase.cs
+END
+AcceptedTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests/AcceptedTestCase.cs
+END
+NotAcceptedTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests/NotAcceptedTestCase.cs
+END
+DynamicFixtureTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests/DynamicFixtureTestCase.cs
+END
+FixtureConfigurationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rangelog/!svn/ver/6/trunk/tools/db4o-7.4/src/Db4oUnit.Extensions/Db4oUnit.Extensions/Tests/FixtureConfigurationTestCase.cs
+END
