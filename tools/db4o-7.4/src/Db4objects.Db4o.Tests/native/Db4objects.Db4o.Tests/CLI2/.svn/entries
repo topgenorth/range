@@ -1,83 +1,0 @@
-9
-
-dir
-72
-http://tom:xian!!@svn.opgenorth.net:8445/svn/rangelog/trunk/tools/db4o-7.4/src/Db4objects.Db4o.Tests/native/Db4objects.Db4o.Tests/CLI2
-http://tom:xian!!@svn.opgenorth.net:8445/svn/rangelog
-
-
-
-2009-01-17T04:32:57.631125Z
-6
-tom
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-88baf8f1-4e68-f646-93ba-cf5a69a85121
-
-AllTests.cs
-file
-
-
-
-
-2009-07-12T22:24:04.000000Z
-2fa6bc029a69c77d0ebb02a56bde074d
-2009-01-17T04:32:57.631125Z
-6
-tom
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1447
-
-Handlers
-dir
-
-Regression
-dir
-
-Assorted
-dir
-
-TA
-dir
-
-Types
-dir
-
-Collections
-dir
-
-NQ
-dir
-
