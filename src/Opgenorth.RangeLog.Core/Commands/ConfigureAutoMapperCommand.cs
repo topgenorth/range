@@ -1,8 +1,6 @@
 using AutoMapper;
-
 using Opgenorth.RangeLog.Core.Domain.Impl;
 using Opgenorth.RangeLog.Core.UI;
-
 
 namespace Opgenorth.RangeLog.Core.Commands
 {

@@ -16,7 +16,7 @@ namespace Opgenorth.RangeLog.Core.Container
             ServiceLocator.SetLocatorProvider(() => smServiceLocator);
         }
 
-        private global::StructureMap.Container GetStructuremapContainer()
+        private static global::StructureMap.Container GetStructuremapContainer()
         {
             var registry = new DefaultStructureMapRegistry();
             var container = new global::StructureMap.Container(registry);
