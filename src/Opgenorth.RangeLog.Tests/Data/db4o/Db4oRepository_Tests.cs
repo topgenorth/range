@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using Db4objects.Db4o;
 
 using NUnit.Framework;
-using NUnit.Framework.SyntaxHelpers;
 
 using Opgenorth.RangeLog.Core.Data;
 using Opgenorth.RangeLog.Core.Data.db4o;

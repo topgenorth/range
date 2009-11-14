@@ -1,7 +1,7 @@
 using Microsoft.Practices.ServiceLocation;
 
 using NUnit.Framework;
-using NUnit.Framework.SyntaxHelpers;
+//using NUnit.Framework.SyntaxHelpers;
 
 using Opgenorth.RangeLog.Core.Container;
 using Opgenorth.RangeLog.Core.Data.db4o;
