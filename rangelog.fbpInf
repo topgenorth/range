@@ -1,0 +1,20 @@
+<project ServerProjectName="">
+  <watches/>
+  <collapsedNodes>{0FBC4FB8-DD10-43FA-8A5B-6E87AD056DAC},{188808D0-6881-4BF1-81B1-76BD0D4F6988},{1DAC348B-30C4-4804-8EDB-6E46E0901462},{4AB78376-840D-438F-960D-5B41EC6C9E7A},{8AD9D446-6ADC-49F6-9944-1687B705A2E5},{BF9F381D-6A62-4B74-8160-D8CB7940D748}</collapsedNodes>
+  <breakpoints></breakpoints>
+  <actions><action id="{541D2D11-C9C6-48D4-988E-AE59029595B0}"><Description>Build project from solution files.</Description>
+      <AssemblyVersion>0|3|0|37</AssemblyVersion>
+      </action>
+    </actions>
+  <propertysets/>
+  <variables><NoAppOfflineFile><![CDATA[\\192.168.100.2\timesheet.opgenorth.net\no_app_offline.htm]]>
+      </NoAppOfflineFile>
+    </variables>
+  <properties><Author>Tom Opgenorth</Author>
+    <Notes><![CDATA[]]>
+      </Notes>
+    <LastBuildRun>00:01:03</LastBuildRun>
+    <LastBuildStart>06/02/2009 11:44:14 PM</LastBuildStart>
+    <LastBuildState>True</LastBuildState>
+    </properties>
+  </project>
