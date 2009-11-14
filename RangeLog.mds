@@ -1,0 +1,20 @@
+<Combine name="RangeLog" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="Opgenorth.RangeLog.UI" configuration="Debug" />
+      <Entry build="True" name="Opgenorth.RangeLog.Data" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="Opgenorth.RangeLog.UI" configuration="Release" />
+      <Entry build="True" name="Opgenorth.RangeLog.Data" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="Opgenorth.RangeLog.UI" single="True">
+    <Execute type="None" entry="Opgenorth.RangeLog.UI" />
+    <Execute type="None" entry="Opgenorth.RangeLog.Data" />
+  </StartMode>
+  <Entries>
+    <Entry filename="src/Opgenorth.RangeLog/RangeLog.mdp" />
+    <Entry filename="src/Opgenorth.RangeLog.Data/Data.mdp" />
+  </Entries>
+</Combine>
